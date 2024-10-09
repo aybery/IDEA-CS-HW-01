@@ -1145,3 +1145,25 @@ LogConfig: CVar [[fx.NiagaraAllowRuntimeScalabilityChanges:1]] deferred - dummy 
 [2024.10.09-19.46.26:190][792]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_CC6B1E42F6D60A2402_2027274271
 [2024.10.09-19.46.34:863][729]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
 [2024.10.09-19.46.54:765][101]LogDerivedDataCache: C:/Users/memcgree/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.048 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 958 files in 1579 folders with total size 73 MiB.
+[2024.10.09-19.49.44:009][340]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StarterContent/Architecture/Floor_400x400.Floor_400x400
+[2024.10.09-19.49.44:009][340]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StarterContent/Architecture/Floor_400x400.Floor_400x400
+[2024.10.09-19.49.44:009][340]LogActorFactory: Actor Factory spawned StaticMesh /Game/StarterContent/Architecture/Floor_400x400.Floor_400x400 as actor: StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_7
+[2024.10.09-19.49.48:554][872]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StarterContent/Architecture/Floor_400x400.Floor_400x400
+[2024.10.09-19.49.48:554][872]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StarterContent/Architecture/Floor_400x400.Floor_400x400
+[2024.10.09-19.49.48:556][872]LogActorFactory: Actor Factory spawned StaticMesh /Game/StarterContent/Architecture/Floor_400x400.Floor_400x400 as actor: StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_CC6B1E42F6D60B2402_1158130448
+[2024.10.09-19.50.02:137][412]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StarterContent/Architecture/SM_AssetPlatform.SM_AssetPlatform
+[2024.10.09-19.50.02:137][412]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StarterContent/Architecture/SM_AssetPlatform.SM_AssetPlatform
+[2024.10.09-19.50.02:137][412]LogActorFactory: Actor Factory spawned StaticMesh /Game/StarterContent/Architecture/SM_AssetPlatform.SM_AssetPlatform as actor: StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_11
+[2024.10.09-19.50.04:140][633]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StarterContent/Architecture/SM_AssetPlatform.SM_AssetPlatform
+[2024.10.09-19.50.04:140][633]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StarterContent/Architecture/SM_AssetPlatform.SM_AssetPlatform
+[2024.10.09-19.50.04:142][633]LogActorFactory: Actor Factory spawned StaticMesh /Game/StarterContent/Architecture/SM_AssetPlatform.SM_AssetPlatform as actor: StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_CC6B1E42F6D60B2402_1173716449
+[2024.10.09-19.50.17:071][137]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.10.09-19.50.17:110][137]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/E/Z6/RK08VD8A3J1MMCTXWLADCC
+[2024.10.09-19.50.17:110][137]LogSavePackage: Moving '../../../../../../Users/memcgree/Documents/GitHub/IDEA-CS-HW-01/CS_IDEA_Homework_01/Saved/RK08VD8A3J1MMCTXWLADCC7DF4AA224ECEA67A4653BD98E250072B.tmp' to '../../../../../../Users/memcgree/Documents/GitHub/IDEA-CS-HW-01/CS_IDEA_Homework_01/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/E/Z6/RK08VD8A3J1MMCTXWLADCC.uasset'
+[2024.10.09-19.50.17:111][137]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/B/H5/UJBL8Q7AJY1WN0USATC1CA
+[2024.10.09-19.50.17:111][137]LogSavePackage: Moving '../../../../../../Users/memcgree/Documents/GitHub/IDEA-CS-HW-01/CS_IDEA_Homework_01/Saved/UJBL8Q7AJY1WN0USATC1CA310C27B8490B885491E615BEFA017787.tmp' to '../../../../../../Users/memcgree/Documents/GitHub/IDEA-CS-HW-01/CS_IDEA_Homework_01/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/B/H5/UJBL8Q7AJY1WN0USATC1CA.uasset'
+[2024.10.09-19.50.17:118][137]LogFileHelpers: InternalPromptForCheckoutAndSave took 47 ms (total: 126 ms)
+[2024.10.09-19.50.17:119][137]AssetCheck: New page: Asset Save: multiple assets
+[2024.10.09-19.50.17:119][137]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_CC6B1E42F6D60B2402_1158130448
+[2024.10.09-19.50.17:119][137]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_CC6B1E42F6D60B2402_1173716449
+[2024.10.09-19.50.21:779][624]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
