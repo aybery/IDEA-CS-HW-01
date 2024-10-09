@@ -1408,3 +1408,21 @@ LogConfig: CVar [[fx.NiagaraAllowRuntimeScalabilityChanges:1]] deferred - dummy 
 [2024.10.09-19.32.01:552][  1]LogAssetRegistry: AssetRegistryGather time 0.2623s: AssetDataDiscovery 0.0271s, AssetDataGather 0.1994s, StoreResults 0.0358s.
 [2024.10.09-19.32.01:566][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000003 seconds (updated 0 objects)
 [2024.10.09-19.32.01:603][  1]LogD3D12RHI: Cannot end block when stack is empty
+[2024.10.09-19.33.49:326][218]LogDerivedDataCache: C:/Users/c837356360/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.018 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 355 files in 641 folders with total size 12 MiB.
+[2024.10.09-19.40.31:858][425]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.10.09-19.40.32:170][426]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.10.09-19.41.08:606][ 22]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StarterContent/Architecture/Wall_Door_400x300.Wall_Door_400x300
+[2024.10.09-19.41.08:606][ 22]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StarterContent/Architecture/Wall_Door_400x300.Wall_Door_400x300
+[2024.10.09-19.41.08:607][ 22]LogActorFactory: Actor Factory spawned StaticMesh /Game/StarterContent/Architecture/Wall_Door_400x300.Wall_Door_400x300 as actor: StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_2
+[2024.10.09-19.41.09:525][103]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StarterContent/Architecture/Wall_Door_400x300.Wall_Door_400x300
+[2024.10.09-19.41.09:525][103]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StarterContent/Architecture/Wall_Door_400x300.Wall_Door_400x300
+[2024.10.09-19.41.09:527][103]LogActorFactory: Actor Factory spawned StaticMesh /Game/StarterContent/Architecture/Wall_Door_400x300.Wall_Door_400x300 as actor: StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_CC6B1E42D5F40A2402_1712843271
+[2024.10.09-19.41.13:739][499]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.10.09-19.41.13:789][499]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/8/CF/ZNIOCRD90Z70MMV9NMW778
+[2024.10.09-19.41.13:790][499]LogSavePackage: Moving '../../../../../../Users/c837356360/Documents/IDEA CS Homework 01/IDEA-CS-HW-01/CS_IDEA_Homework_01/Saved/ZNIOCRD90Z70MMV9NMW77859AA5E8043BD604DADA1D5B3021FAF57.tmp' to '../../../../../../Users/c837356360/Documents/IDEA CS Homework 01/IDEA-CS-HW-01/CS_IDEA_Homework_01/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/8/CF/ZNIOCRD90Z70MMV9NMW778.uasset'
+[2024.10.09-19.41.13:792][499]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/0/YV/QRB7L9CYG05J7MDMYIL5EW
+[2024.10.09-19.41.13:792][499]LogSavePackage: Moving '../../../../../../Users/c837356360/Documents/IDEA CS Homework 01/IDEA-CS-HW-01/CS_IDEA_Homework_01/Saved/QRB7L9CYG05J7MDMYIL5EWCE6A005E462B0C5B15E067BC230646A7.tmp' to '../../../../../../Users/c837356360/Documents/IDEA CS Homework 01/IDEA-CS-HW-01/CS_IDEA_Homework_01/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/0/YV/QRB7L9CYG05J7MDMYIL5EW.uasset'
+[2024.10.09-19.41.13:801][499]LogFileHelpers: InternalPromptForCheckoutAndSave took 61 ms (total: 800 ms)
+[2024.10.09-19.41.13:802][499]AssetCheck: New page: Asset Save: multiple assets
+[2024.10.09-19.41.13:802][499]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_44
+[2024.10.09-19.41.13:802][499]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_CC6B1E42D5F40A2402_1712843271
