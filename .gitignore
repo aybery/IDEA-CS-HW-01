@@ -72,3 +72,12 @@ Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+CS_IDEA_Homework_01/Intermediate/CachedAssetRegistry_0.bin
+CS_IDEA_Homework_01/Intermediate/ShaderAutogen/PCD3D_SM5/AutogenShaderHeaders.ush
+CS_IDEA_Homework_01/Intermediate/ShaderAutogen/PCD3D_SM6/AutogenShaderHeaders.ush
+CS_IDEA_Homework_01/Saved/Config/CrashReportClient/UECC-Windows-C0DB3BEE48639B3D8CFCC59924B6141A/CrashReportClient.ini
+CS_IDEA_Homework_01/Saved/Logs/CS_IDEA_Homework_01-backup-2024.10.11-19.09.33.log
+CS_IDEA_Homework_01/Saved/Logs/CS_IDEA_Homework_01.log
+*.bin
+*.ini
+*.log
