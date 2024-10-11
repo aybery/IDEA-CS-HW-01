@@ -81,3 +81,6 @@ CS_IDEA_Homework_01/Saved/Logs/CS_IDEA_Homework_01.log
 *.bin
 *.ini
 *.log
+/CS_IDEA_Homework_01/Saved/Logs
+/CS_IDEA_Homework_01/Saved
+/CS_IDEA_Homework_01/Intermediate
