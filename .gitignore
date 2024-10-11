@@ -76,7 +76,3 @@ DerivedDataCache/*
 *.bin
 *.ini
 *.log
-/CS_IDEA_Homework_01/Saved/*
-/CS_IDEA_Homework_01/Intermediate/*
-*.json
-/CS_IDEA_Homework_01/Saved/Config/*
