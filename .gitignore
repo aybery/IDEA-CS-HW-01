@@ -75,3 +75,4 @@ DerivedDataCache/*
 
 *.bin
 *.log
+Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset
