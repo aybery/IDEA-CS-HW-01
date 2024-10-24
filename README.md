@@ -1,8 +1,9 @@
 # CS IDEA 310H Homework 01
 
 ### Links:
-Youtube link showcasing features
-https://youtube.com/videogoeshere
+Youtube link - [demo showcasing features](https://www.youtube.com/watch?v=xkRtmouVZ1A)
+Youtube link - [Blueprint showcase](https://www.youtube.com/watch?v=mcCSraPDcZQ)
+
 
 ### Creators:
  - Louis Abery
@@ -17,7 +18,8 @@ Louis Abery:
 - Added logic to restart current level if players health is 0
 - Added logic to go from level 1 to level 2 after all targets destroyed
 - Added logic to go from level 2 to main menu after all targets destroyed
-- Added 'health' to targets so they aren't destroyed instantly
+- Added 'health' to targets so they aren't destroyed instantly + randomized colour when hit
+- Added Sounds
 
 Molly McGree:
 - Added 2 unqiue playable levels and designed them
@@ -37,4 +39,9 @@ Molly McGree:
 ### References
 - Blueprints Visual Scripting for Unreal Engine 5 - Third Edition
 - Lab videos
-- Video [How To Create A Main Menu - Unreal Engine 5 Tutorial](https://www.youtube.com/watch?v=kumZj_mov58)
+- Youtube link - [How To Create A Main Menu - Unreal Engine 5 Tutorial](https://www.youtube.com/watch?v=kumZj_mov58)
+
+### Meetings with group (MM/DD/YY)
+- 10/09/24 Met outside of class to figure out what we were doing and testing how to use github with unreal
+- 10/11/24 Met inside lab session, working on the project figuring out who was doing what
+- Communicated on Teams to futher clarify what each person was working on 
